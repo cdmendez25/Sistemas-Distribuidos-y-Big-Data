@@ -1,0 +1,5 @@
+dask[complete]==2026.8.0
+prefect==3.8.5
+prefect-dask==0.3.7
+pyarrow
+pytest
